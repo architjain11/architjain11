@@ -8,7 +8,7 @@
 <!-- <p align="center"> <a href="https://github.com/architjain11/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=architjain11&row=2&column=3&theme=onedark" alt="architjain11" /></a> </p> -->
 
 
-<!-- ABOUT ME --> <hr>
+<!-- ABOUT ME --> <br><br>
 <h2 align="center">About me</h3>
 <p align="center">
  Using code as my choice of weapon in the war zone of solving puzzles, I have been working to sharpen that blade. Currently exploring the world of Python and learning it's applications. Additionally, I am also preparing Data Structures and Algorithms and practicing the implementation of the same on LeetCode. 
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 -->
 
 
-<!-- CONNECT WITH ME --> <hr>
+<!-- CONNECT WITH ME --> <br><br>
 <h2 align="center">Connect with me</h3>
 <p align="center">
 <a href="https://twitter.com/codingspirits" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/63463358/173126204-ccd39c5d-abe4-4c74-8e80-77bb3798b035.png" alt="codingspirits" height="30" width="40" /></a>&emsp;
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 
 
-<!-- GITHUB STATS --> <hr>
+<!-- GITHUB STATS --> <br><br>
 <h2 align="center">GitHub Stats</h3>
 
 <p align="center">
