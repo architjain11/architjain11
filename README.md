@@ -1,8 +1,7 @@
 <!-- Heading -->
 
-<h1 align="center"> Hi <img src="https://user-images.githubusercontent.com/63463358/173118072-834c0298-52b7-4bcc-a7dc-5493088169b1.gif" width="150"> I am Archit Jain</h1>
-<!-- <h3 align="center">Web Developer | UI Designer | Community Leader</h3> -->
-
+<h1 align="center"><img src="https://user-images.githubusercontent.com/63463358/173118072-834c0298-52b7-4bcc-a7dc-5493088169b1.gif" width="150"> I am Archit Jain</h1>
+<h3 align="center">NSUT COE '24</h3>
 
 
 
@@ -23,3 +22,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3 align="center">GitHub Stats</h3>
+
+<a href=""><img align="centre" src="https://github-readme-stats.vercel.app/api?username=architjain11&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
+</a>
+
+<p align="center">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=architjain11&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+</p>
