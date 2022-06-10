@@ -1,6 +1,8 @@
 <!-- Heading -->
-<h1 align="center"> Hi <img src="https://tenor.com/view/baby-yoda-so-cute-the-mandalorian-hello-hi-gif-16772776" width="15px"> I am Archit Jain</h1>
+
+<h1 align="center"> Hi <img src="![hello](https://user-images.githubusercontent.com/63463358/173118072-834c0298-52b7-4bcc-a7dc-5493088169b1.gif)" width="15px"> I am Archit Jain</h1>
 <!-- <h3 align="center">Web Developer | UI Designer | Community Leader</h3> -->
+
 
 
 
