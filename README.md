@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=architjain11&label=Profile%20views&color=0e75b6&style=flat" alt="architjain11" /> </p>
+
 <!--
 **architjain11/architjain11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
