@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 <!-- CONNECT WITH ME --> <hr>
 <h2 align="center">Connect with me</h3>
 <p align="center">
-<a href="https://twitter.com/codingspirits" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/63463358/173126204-ccd39c5d-abe4-4c74-8e80-77bb3798b035.png" alt="codingspirits" height="40" width="40" /></a>   
-<a href="https://www.linkedin.com/in/jainarchit11/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/63463358/173126217-5a1a4854-4e66-475c-99e6-e5bd755d95a0.png" alt="jainarchit11" height="40" width="40" /></a>   
-<a href="mailto:architjain@gmail.com" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/63463358/173123301-b4a66aad-f018-4bba-b37b-33c2642add95.png" alt="architjain@gmail.com" height="40" width="40" /></a>
+<a href="https://twitter.com/codingspirits" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/63463358/173126204-ccd39c5d-abe4-4c74-8e80-77bb3798b035.png" alt="codingspirits" height="30" width="40" /></a>&emsp;
+<a href="https://www.linkedin.com/in/jainarchit11/" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/63463358/173126217-5a1a4854-4e66-475c-99e6-e5bd755d95a0.png" alt="jainarchit11" height="40" width="40" /></a>&emsp;
+<a href="mailto:architjain@gmail.com" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/63463358/173123301-b4a66aad-f018-4bba-b37b-33c2642add95.png" alt="architjain@gmail.com" height="30" width="40" /></a>
 </p>
 
 
