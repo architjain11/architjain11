@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=architjain11&label=Profile%20views&color=0e75b6&style=flat" alt="architjain11" /> </p>
-<p align="left"> <a href="https://github.com/architjain11/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=architjain11" alt="architjain11" /></a> </p>
+<p align="left"> <a href="https://github.com/architjain11/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=architjain11&row=2&column=3&theme=onedark" alt="architjain11" /></a> </p>
 
 <!--
 **architjain11/architjain11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
