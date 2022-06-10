@@ -1,4 +1,8 @@
-### Hi there 👋
+<!-- Heading -->
+<h1 align="center"> Hi <img src="https://tenor.com/view/baby-yoda-so-cute-the-mandalorian-hello-hi-gif-16772776" width="15px"> I am Archit Jain</h1>
+<!-- <h3 align="center">Web Developer | UI Designer | Community Leader</h3> -->
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=architjain11&label=Profile%20views&color=0e75b6&style=flat" alt="architjain11" /> </p>
 <p align="left"> <a href="https://github.com/architjain11/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=architjain11&row=2&column=3&theme=onedark" alt="architjain11" /></a> </p>
