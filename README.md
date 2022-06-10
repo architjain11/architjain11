@@ -1,6 +1,6 @@
 <!-- Heading -->
 
-<h1 align="center"> Hi <img src="https://user-images.githubusercontent.com/63463358/173118072-834c0298-52b7-4bcc-a7dc-5493088169b1.gif"> I am Archit Jain</h1>
+<h1 align="center"> Hi <img src="https://user-images.githubusercontent.com/63463358/173118072-834c0298-52b7-4bcc-a7dc-5493088169b1.gif" width="15px"> I am Archit Jain</h1>
 <!-- <h3 align="center">Web Developer | UI Designer | Community Leader</h3> -->
 
 
