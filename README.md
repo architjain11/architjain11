@@ -13,7 +13,7 @@
 <p align="center">
  Using code as my choice of weapon in the war zone of solving puzzles, I have been working to sharpen that blade. Currently exploring the world of Python and learning it's applications. Additionally, I am also preparing Data Structures and Algorithms and practicing the implementation of the same on LeetCode. 
   <br><br>
- I strongly believes that the world of technology would not be shaped by the faint hearted but rather bold and ambitious coders. My ability to translate academic knowledge into innovative practical solutions is something which will help me stand out
+ I strongly believe that the world of technology would not be shaped by the faint hearted but rather bold and ambitious coders. My ability to translate academic knowledge into innovative practical solutions is something which will help me stand out.
  </p>
 
 <!--
